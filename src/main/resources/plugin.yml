@@ -1,0 +1,9 @@
+name: Crypty
+main: cz.venteria.Main
+version: 1.0
+api-version: 1.20
+database: true
+description: Crypto wallet in Minecraft
+
+commands:
+  crypty:
